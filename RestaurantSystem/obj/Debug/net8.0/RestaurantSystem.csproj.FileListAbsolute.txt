@@ -1,0 +1,14 @@
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.exe
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.deps.json
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.runtimeconfig.json
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.dll
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.pdb
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.AssemblyInfoInputs.cache
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.AssemblyInfo.cs
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.dll
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\refint\RestaurantSystem.dll
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.pdb
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.genruntimeconfig.cache
+C:\Users\topik\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0\ref\RestaurantSystem.dll
